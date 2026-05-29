@@ -1,6 +1,6 @@
-# ⚽ Tool Tự Động Gán Nhãn Football Highlight cho CVAT (YOLOv8)
+# ⚽ Tool Tự Động Gán Nhãn Football Highlight cho CVAT (YOLO26n)
 
-Chào cậu! Đây là tài liệu hướng dẫn nhanh để sử dụng bộ công cụ tự động gán nhãn (Autolabel) bóng và khung thành bóng đá bằng model YOLOv8 custom (`best.pt`) và đóng gói để upload lên CVAT.
+Chào cậu! Đây là tài liệu hướng dẫn nhanh để sử dụng bộ công cụ tự động gán nhãn (Autolabel) bóng và khung thành bóng đá bằng model YOLO26n custom (`best.pt`) và đóng gói để upload lên CVAT.
 
 ---
 
